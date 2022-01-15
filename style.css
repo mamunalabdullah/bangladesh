@@ -58,31 +58,7 @@ p{
     margin: 0 auto;
     padding-left: 10%;
 }
-.divisions-area{
-    text-align: center;
-    margin-top: 50px;
-}
-.divisions-item{
-    padding: 3% 0;
-    display: flex;
-    justify-content: space-around;
-}
-.divisions-item button{
-    margin: 0 auto;
-}
-.division{
-    width: 25%;
-    padding-bottom: 2%;
-    border: 1px solid gray;
-    box-shadow: 10px 10px 10px gray;
-}
-.division-img img{
-    width: 100%;
-}
-.division-content p{
-    text-align: justify;
-    padding: 0 3%;
-}
+
 footer{
     padding: 3% 0;
 }
